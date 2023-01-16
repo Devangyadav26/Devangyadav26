@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **devangyadav162000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J-vnRDy8DqfskIEPfsxfUNrzPATkYyIH/view?usp=share_link](https://drive.google.com/file/d/1J-vnRDy8DqfskIEPfsxfUNrzPATkYyIH/view?usp=share_link)
+- 📄 Resume [https://drive.google.com/file/d/1J-vnRDy8DqfskIEPfsxfUNrzPATkYyIH/view?usp=share_link](https://drive.google.com/file/d/1J-vnRDy8DqfskIEPfsxfUNrzPATkYyIH/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
