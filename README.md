@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Open cart](https://www.opencart.com/)
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Advanced CSS**
 
 - 👯 I’m looking to collaborate on **Manual and automation testing**
 
-- 📝 I regularly write articles on [https://devang26.hashnode.dev/](https://devang26.hashnode.dev/)
+- 📝 I regularly (not actually) write articles on [https://devang26.hashnode.dev/](https://devang26.hashnode.dev/)
 
 - 💬 Ask me about **STLC, JIRA, Manual Testing**
 
